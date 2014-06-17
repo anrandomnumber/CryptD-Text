@@ -55,6 +55,22 @@
 			-o-background-size: cover;
 			background-size: cover;
 		}
+		
+		.opcije {
+			position: absolute;
+			z-index: 5;
+			left: 50%;
+			margin: -30px -245px;
+		}
+		.sig {
+			position: absolute;
+			z-index: 6;
+			top:190;
+			left: 50%;
+			margin: 97px 200px;
+			font-size: smaller;
+			display:inline-table;
+		}
 	</style>
 </head>
     <body>
@@ -65,15 +81,16 @@
 					<br>
 					<div class="okvir">
 						<textarea rows="16" cols="60" name="clearText"></textarea>
+					<div class="opcije">
+						<button class="input" type="button" id="osiguraj">Make Secure</button>
+				                <button class="input" type="button" id="prikazi">Show</button>
+				                <button class="input" type="button" id="reset">Reset</button>
 					</div>
-					<br>
-                    <button class="input" type="button" id="osiguraj">Make Secure</button>
-                    <button class="input" type="button" id="prikazi">Show</button>
-                    <button class="input" type="button" id="reset">Reset</button>
+					<div class="sig"><p><a href="http://www.facebook.com/novica.zivkovic" target="_blank">By אַספּאַַּ</p></div>
+					</div>
                     <script src="crdcr.js"></script>
 				</form>
 			</div>
 		</center>
     </body>
 </html>
-
