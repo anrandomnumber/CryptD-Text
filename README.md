@@ -1,7 +1,10 @@
 CryptD-Text
+=====================
+
 Its a extension for Chrome and Chromium browsers to simply and fast crypt or decrypt text to send to your frieds so anyone can't read it if he or she does not have same extension and doesn't use it in same day when message is sent.
 
 Installation
+=====================
 Here is the unpacked version of extension so You can easy change functions to be unique so no one except you can use it to read your messages.
 
 Download zip version of all files
@@ -14,12 +17,15 @@ How to use it
 Icon for extension will be shown in url bar only if address is facebook.com/messages/* You can use extension by using an click on icon in url bar or by using keyboard shortcut Ctrl+Shift+X
 
 To crypt an message
+=====================
 Write message in message text area box and click on Hide button.
 
 To decrypt message
+=====================
 Paste message into message text area and click on Show button.
 
 Bugs
+=====================
 There is an known bug related to decrypting messages which contain new line character in which case you'll receive an weird text instead of clear message text. I'll try to fix that asap, and in mean time you can simply decrypt line by line of messages.
 
 I would like to hear from you if you like this extension so i can know if there is an need to continue on firther development of extension.
