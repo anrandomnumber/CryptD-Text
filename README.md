@@ -7,7 +7,7 @@ Here is the video so you can see how it works https://www.youtube.com/watch?v=CQ
 
 Installation
 =====================
-Here is the unpacked version of extension so You can easy change functions to be unique so no one except you can use it to read your messages.
+It's unpacked version of source code of the extension so You can easy change functions to be unique so no one except you can't use it to read your messages.
 
 Download zip version of all files
 Extract downloaded file anywhere
