@@ -3,7 +3,7 @@ CryptD-Text
 
 Its a extension for Chrome and Chromium browsers to simply and fast crypt or decrypt text to send to your friends so anyone can't read it if he or she does not have same extension and doesn't use it in same day when message is sent.
 
-Here is the video so you can see how it works https://www.youtube.com/watch?v=CQuZ2Pzo_kg
+Here is the video so you can see how it works https://www.youtube.com/watch?v=oSGAYYrsryg
 
 Installation
 =====================
