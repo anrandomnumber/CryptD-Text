@@ -1,6 +1,6 @@
 function sakrijPoruku()
 {
-	var dt = new Date();
+  var dt = new Date();
   var someString = document.thisForm.clearText.value;
   var j; var n; var dan = dt.getDate();
  
